@@ -1,0 +1,5 @@
+age = int(input("How old are you? "))
+print("You have been alive for " + str(age*365) + " days")
+print("You have been alive for " + str(age/10) + " decades")
+print("You have been alive for " + str(age*52.14) + " weeks")
+print("You have been alive for " + str(age*525600) + " minutes")
