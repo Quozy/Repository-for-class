@@ -1,0 +1,12 @@
+name1 = str(input("A main characters name "))
+nam2 = str(input("A villian's name "))
+animal = str(input("An animal "))
+move = str(input("A form a movement "))
+num1 = str(input("A random number "))
+meas1 = str(input("A measurement of distance "))
+meas2 = str(input("A measurement of time "))
+adj = str(input("An Adjective "))
+num2 = str(input("Another random number "))
+atk = str(input("A way to attack someone "))
+
+print("Once upon a time " + name1 + " went and ate a " + animal + ", consuming its powers. It was much needed to defeat " + nam2 + ". They " + move + " at " + nam2 + " moving " + num1 + " " + meas1 + " per " + meas2 + " and shot him with the special " + animal + " gun, unfortunatly misfiring " + num2 + " times. " + nam2 + " " + atk + " " + name1 + " causing them to die")
